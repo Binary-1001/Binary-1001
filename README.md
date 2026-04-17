@@ -50,23 +50,29 @@
 <!-- PROJECTS:START -->
 ### 🔧 Currently Working On
 
-| | Details |
+| Field | Details |
 |---|---|
-| **Repo** | [Number-Guessing-Game](https://github.com/Binary-1001/Number-Guessing-Game) |
-| **Description** | No description provided. |
-| **Language** | Python |
-| **Stars** | ⭐ 0 |
-| **Last pushed** | 27 Mar 2026 |
+| **📁 Repo** | [Number-Guessing-Game](https://github.com/Binary-1001/Number-Guessing-Game) |
+| **📝 Description** | An interactive game project |
+| **💻 Language** | Python |
+| **🏷️ Topics** | — |
+| **⭐ Stars** | 0 |
+| **🍴 Forks** | 0 |
+| **🐛 Open Issues** | 0 |
+| **📦 Repo Size** | 6 KB |
+| **📊 Commits** | 4+ |
+| **🕒 Last Active** | 21 days ago (27 Mar 2026) |
+| **🔐 Visibility** | 🔓 Public |
 
 ### ✅ Completed / Previous Projects
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| [To-Do-List-Application](https://github.com/Binary-1001/To-Do-List-Application) | — | Python |
-| [sudoku-solver](https://github.com/Binary-1001/sudoku-solver) | — | Java |
-| [Calculator](https://github.com/Binary-1001/Calculator) | — | Python |
+| Project | Description | Language | Stars | Last Pushed |
+|---------|-------------|----------|-------|-------------|
+| [To-Do-List-Application](https://github.com/Binary-1001/To-Do-List-Application) | To Do List Application project | Python | ⭐ 0 | 22 Feb 2026 |
+| [sudoku-solver](https://github.com/Binary-1001/sudoku-solver) | A Sudoku puzzle solver | Java | ⭐ 0 | 13 Feb 2026 |
+| [Calculator](https://github.com/Binary-1001/Calculator) | A calculator application | Python | ⭐ 0 | 11 Dec 2025 |
 
-<sub>🤖 Auto-updated by GitHub Actions · Last checked: 17 Apr 2026 18:36 UTC</sub>
+<sub>🤖 Auto-updated by GitHub Actions · Last checked: 17 Apr 2026 18:46 UTC</sub>
 
 <!-- PROJECTS:END -->
 
