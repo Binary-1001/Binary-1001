@@ -50,8 +50,23 @@
 <!-- PROJECTS:START -->
 ### 🔧 Currently Working On
 
-> 🤖 This section is auto-updated every 6 hours by GitHub Actions.
-> The most recently pushed repo will always appear here.
+| | Details |
+|---|---|
+| **Repo** | [Number-Guessing-Game](https://github.com/Binary-1001/Number-Guessing-Game) |
+| **Description** | No description provided. |
+| **Language** | Python |
+| **Stars** | ⭐ 0 |
+| **Last pushed** | 27 Mar 2026 |
+
+### ✅ Completed / Previous Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [To-Do-List-Application](https://github.com/Binary-1001/To-Do-List-Application) | — | Python |
+| [sudoku-solver](https://github.com/Binary-1001/sudoku-solver) | — | Java |
+| [Calculator](https://github.com/Binary-1001/Calculator) | — | Python |
+
+<sub>🤖 Auto-updated by GitHub Actions · Last checked: 17 Apr 2026 18:36 UTC</sub>
 
 <!-- PROJECTS:END -->
 
