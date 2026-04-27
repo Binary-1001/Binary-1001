@@ -53,28 +53,29 @@
 
 | Field | Details |
 |---|---|
-| **📁 Repo** | [ecommerce-data-warehouse](https://github.com/Binary-1001/ecommerce-data-warehouse) |
-| **📝 Description** | End-to-end dbt data warehouse built on the Olist Brazilian e-commerce dataset using DuckDB and a star schema |
-| **💻 Language** | — |
+| **📁 Repo** | [Dockerised-ETL-Pipeline](https://github.com/Binary-1001/Dockerised-ETL-Pipeline) |
+| **📝 Description** | An ETL data pipeline |
+| **💻 Language** | Python |
 | **🏷️ Topics** | — |
 | **⭐ Stars** | 0 |
 | **🍴 Forks** | 0 |
 | **🐛 Open Issues** | 0 |
-| **📦 Repo Size** | 32 KB |
-| **📊 Commits** | 4+ |
-| **🕒 Last Active** | 6 days ago (19 Apr 2026) |
+| **📦 Repo Size** | 8 KB |
+| **📊 Commits** | 7+ |
+| **🕒 Last Active** | today (27 Apr 2026) |
 | **🔐 Visibility** | 🔓 Public |
 
 ### ✅ Completed / Previous Projects
 
 | Project | Description | Language | Stars | Last Pushed |
 |---------|-------------|----------|-------|-------------|
+| [ecommerce-data-warehouse](https://github.com/Binary-1001/ecommerce-data-warehouse) | End-to-end dbt data warehouse built on the Olist Brazilian e-commerce dataset using DuckDB and a star schema | — | ⭐ 0 | 19 Apr 2026 |
 | [Number-Guessing-Game](https://github.com/Binary-1001/Number-Guessing-Game) | An interactive game project | Python | ⭐ 0 | 27 Mar 2026 |
 | [To-Do-List-Application](https://github.com/Binary-1001/To-Do-List-Application) | To Do List Application project | Python | ⭐ 0 | 22 Feb 2026 |
 | [sudoku-solver](https://github.com/Binary-1001/sudoku-solver) | A Sudoku puzzle solver | Java | ⭐ 0 | 13 Feb 2026 |
 | [Calculator](https://github.com/Binary-1001/Calculator) | A calculator application | Python | ⭐ 0 | 11 Dec 2025 |
 
-<sub>🤖 Auto-updated by GitHub Actions · Last checked: 26 Apr 2026 21:27 UTC</sub>
+<sub>🤖 Auto-updated by GitHub Actions · Last checked: 27 Apr 2026 02:27 UTC</sub>
 
 <!-- PROJECTS:END -->
 
