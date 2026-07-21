@@ -62,20 +62,19 @@
 | **🐛 Open Issues** | 0 |
 | **📦 Repo Size** | 8 KB |
 | **📊 Commits** | 7+ |
-| **🕒 Last Active** | 84 days ago (27 Apr 2026) |
+| **🕒 Last Active** | 85 days ago (27 Apr 2026) |
 | **🔐 Visibility** | 🔓 Public |
 
 ### ✅ Completed / Previous Projects
 
 | Project | Description | Language | Stars | Last Pushed |
 |---------|-------------|----------|-------|-------------|
-| [ecommerce-data-warehouse](https://github.com/Binary-1001/ecommerce-data-warehouse) | End-to-end dbt data warehouse built on the Olist Brazilian e-commerce dataset using DuckDB and a star schema | — | ⭐ 0 | 19 Apr 2026 |
 | [Number-Guessing-Game](https://github.com/Binary-1001/Number-Guessing-Game) | An interactive game project | Python | ⭐ 0 | 27 Mar 2026 |
 | [To-Do-List-Application](https://github.com/Binary-1001/To-Do-List-Application) | To Do List Application project | Python | ⭐ 0 | 22 Feb 2026 |
 | [sudoku-solver](https://github.com/Binary-1001/sudoku-solver) | A Sudoku puzzle solver | Java | ⭐ 0 | 13 Feb 2026 |
 | [Calculator](https://github.com/Binary-1001/Calculator) | A calculator application | Python | ⭐ 0 | 11 Dec 2025 |
 
-<sub>🤖 Auto-updated by GitHub Actions · Last checked: 20 Jul 2026 19:38 UTC</sub>
+<sub>🤖 Auto-updated by GitHub Actions · Last checked: 21 Jul 2026 02:12 UTC</sub>
 
 <!-- PROJECTS:END -->
 
