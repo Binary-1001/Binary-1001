@@ -53,15 +53,15 @@
 
 | Field | Details |
 |---|---|
-| **📁 Repo** | [Brownfields-robot-worlds](https://github.com/Binary-1001/Brownfields-robot-worlds) |
-| **📝 Description** | Brownfields Robot Worlds project |
-| **💻 Language** | Shell |
+| **📁 Repo** | [Data-Engineering-Capstone-Project](https://github.com/Binary-1001/Data-Engineering-Capstone-Project) |
+| **📝 Description** | A data engineering / science project |
+| **💻 Language** | Python |
 | **🏷️ Topics** | — |
 | **⭐ Stars** | 0 |
 | **🍴 Forks** | 0 |
 | **🐛 Open Issues** | 0 |
-| **📦 Repo Size** | 23 KB |
-| **📊 Commits** | 9+ |
+| **📦 Repo Size** | 381 KB |
+| **📊 Commits** | 2+ |
 | **🕒 Last Active** | today (01 Sep 2026) |
 | **🔐 Visibility** | 🔓 Public |
 
@@ -69,13 +69,13 @@
 
 | Project | Description | Language | Stars | Last Pushed |
 |---------|-------------|----------|-------|-------------|
-| [Data-Engineering-Capstone-Project](https://github.com/Binary-1001/Data-Engineering-Capstone-Project) | A data engineering / science project | — | ⭐ 0 | 01 Sep 2026 |
+| [Brownfields-robot-worlds](https://github.com/Binary-1001/Brownfields-robot-worlds) | Brownfields Robot Worlds project | Java | ⭐ 0 | 01 Sep 2026 |
 | [Dockerised-ETL-Pipeline](https://github.com/Binary-1001/Dockerised-ETL-Pipeline) | An ETL data pipeline | Python | ⭐ 0 | 27 Apr 2026 |
 | [Number-Guessing-Game](https://github.com/Binary-1001/Number-Guessing-Game) | An interactive game project | Python | ⭐ 0 | 27 Mar 2026 |
 | [To-Do-List-Application](https://github.com/Binary-1001/To-Do-List-Application) | To Do List Application project | Python | ⭐ 0 | 22 Feb 2026 |
 | [sudoku-solver](https://github.com/Binary-1001/sudoku-solver) | A Sudoku puzzle solver | Java | ⭐ 0 | 13 Feb 2026 |
 
-<sub>🤖 Auto-updated by GitHub Actions · Last checked: 01 Sep 2026 20:27 UTC</sub>
+<sub>🤖 Auto-updated by GitHub Actions · Last checked: 02 Sep 2026 02:35 UTC</sub>
 
 <!-- PROJECTS:END -->
 
